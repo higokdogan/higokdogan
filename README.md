@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**higokdogan/higokdogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Halil İbrahim 👋
 
-Here are some ideas to get you started:
+I am an Academic Researcher and Mathematics Instructor, currently pursuing a Ph.D. in Mathematics at Süleyman Demirel Üniversitesi. My work bridges theoretical mathematics, deterministic global optimization, and applied modeling for real-world scenarios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Academic Background & Theses
+- **Ph.D. Student in Mathematics** 
+  *Thesis Topic:* An Effective Deterministic Global Optimization Method and Its Applications to Some Engineering Optimization Problems
+- **M.Sc. in Mathematics** 
+  *Thesis Topic:* Modeling of Forest Fires in Isparta Region with Fuzzy Logic
+- **B.Sc. in Mathematics**
+
+### 🔭 Research Interests
+- **Global Optimization:** Filled Function Methods, continuous space formulations, and quasi-random search strategies.
+- **Engineering Optimization:** Structural design optimization and benchmark problems.
+- **Fuzzy Logic & Data:** Risk modeling and advanced data analysis (Fuzzy C-Means clustering).
+
+### 💻 Tools & Technologies
+- MATLAB, Simulink, LaTeX (TikZ, Beamer)
+
+### 📫 Contact & Profiles
+- [E-mail] (haliligokdogan@gmail.com)
+
